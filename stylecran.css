@@ -1,0 +1,30 @@
+figure {
+    border: thin #e7e5e5 solid;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: column;
+    padding: 15px;
+    max-width: 220px;
+    box-shadow: inset;
+    margin: auto;
+    
+}
+
+img {
+    max-width: 220px;
+    max-height: 150px;
+    border-radius: 10px;
+}
+p{
+    position: absolute;
+    ;
+}
+.ent{
+    border: thin #fff solid;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: column;
+    max-width: 220px;
+    box-shadow: inset;
+    margin: auto;
+}
